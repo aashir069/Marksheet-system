@@ -1,2 +1,2 @@
 # Marksheet-system
-JavaScript mini project using bootstrap and JavaScript  
+JavaScript mini project using bootstrap, CSS and JavaScript   
